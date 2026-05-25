@@ -25,12 +25,12 @@ marwan = {
     "location"   : "Bangladesh 🇧🇩",
     "focus"      : ["Machine Learning", "Backend Development", "Competitive Programming"],
     "cp_stats"   : {
-        "total_problems" : "2100+",
-        "codeforces_max" : 1442,
-        "leetcode_max"   : 1607,
-        "codechef_max"   : 1623,
+        "total_problems" : "2200+",
+        "codeforces_max" : 1471,
+        "leetcode_max"   : 1677,
+        "codechef_max"   : 1669,
     },
-    "currently_learning" : ["System Design", "Docker", "Advanced DSA"],
+    "currently_learning" : ["System Design", "ASP.NET Core", "Advanced DSA"],
     "open_to"    : "Software Engineering roles, ML Engineering, Backend Dev",
 }
 ```
@@ -43,13 +43,15 @@ marwan = {
 
 | Platform | Max Rating | Problems Solved | Profile |
 |----------|-----------|-----------------|---------|
-| ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | **1442** | 1370+ | [TheHackerBd](https://codeforces.com/profile/TheHackerBd) |
+| ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | **1471** | 620+ | [TheHackerBd](https://codeforces.com/profile/TheHackerBd) |
 | ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | **1607** | 126 | [marwanthe0](https://leetcode.com/u/marwanthe0) |
-| ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | **1623** | 301 | Profile |
-| VJudge | — | 313 | Profile |
-| CSES | — | 85 | Profile |
+| ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | **1442** | 800+ | [Marwanthe0](https://codeforces.com/profile/Marwanthe0) |
+| ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | **1669** | 310+ | Profile |
+| VJudge | — | 313 | [marwanthe0](https://vjudge.net/user/Marwanthe0) | 
+| CSES | — | 85 | [marwanthe0](https://cses.fi/user/278406) |
 
 🏅 **Champion** — JUST Intra-University Programming Contest 2025
+🥈 **Runner-Up** — JUST Farewell Contest 2026
 
 </div>
 
