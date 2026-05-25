@@ -46,12 +46,12 @@ marwan = {
 | ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | **1471** | 620+ | [TheHackerBd](https://codeforces.com/profile/TheHackerBd) |
 | ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | **1607** | 126 | [marwanthe0](https://leetcode.com/u/marwanthe0) |
 | ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | **1442** | 800+ | [Marwanthe0](https://codeforces.com/profile/Marwanthe0) |
-| ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | **1669** | 310+ | Profile |
-| VJudge | — | 313 | [marwanthe0](https://vjudge.net/user/Marwanthe0) | 
-| CSES | — | 85 | [marwanthe0](https://cses.fi/user/278406) |
+| ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | **1669** | 310+ | [Marwanthe0]([https://codeforces.com/profile/Marwanthe0](https://www.codechef.com/users/marwanthe0)) |
+| VJudge | — | 313 | [Marwanthe0](https://vjudge.net/user/Marwanthe0) | 
+| CSES | — | 85 | [Marwanthe0](https://cses.fi/user/278406) |
 
-🏅 **Champion** — JUST Intra-University Programming Contest 2025
-🥈 **Runner-Up** — JUST Farewell Contest 2026
+🏅 **Champion:** JUST Intra-University Programming Contest 2025         
+🥈 **Runner-Up:** JUST Farewell Contest 2026
 
 </div>
 
