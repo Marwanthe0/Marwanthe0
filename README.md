@@ -46,7 +46,7 @@ marwan = {
 | ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | **1471** | 620+ | [TheHackerBd](https://codeforces.com/profile/TheHackerBd) |
 | ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | **1607** | 126 | [marwanthe0](https://leetcode.com/u/marwanthe0) |
 | ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | **1442** | 800+ | [Marwanthe0](https://codeforces.com/profile/Marwanthe0) |
-| ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | **1669** | 310+ | [Marwanthe0]([https://codeforces.com/profile/Marwanthe0](https://www.codechef.com/users/marwanthe0)) |
+| ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | **1669** | 310+ | [Marwanthe0](https://www.codechef.com/users/marwanthe0) |
 | VJudge | — | 313 | [Marwanthe0](https://vjudge.net/user/Marwanthe0) | 
 | CSES | — | 85 | [Marwanthe0](https://cses.fi/user/278406) |
 
@@ -110,10 +110,11 @@ marwan = {
 
 ## 🎓 Certifications & Achievements
 
-- ✅ **CSE Fundamentals** — Phitron (9 months) — **99.69% Grade**
-- ✅ **Data Science & Machine Learning** — Phitron (6 months) — **90.63% Grade**
-- 🏆 **Champion** — JUST Intra-University Programming Contest 2025
-- 🎓 **HSC GPA: 5.00/5.00** — Blue Bird School and College
+- ✅ **CSE Fundamentals:** Phitron (9 months) **99.69% Grade**
+- ✅ **Data Science & Machine Learning:** Phitron (6 months) **90.63% Grade**
+- 🏆 **Champion:** JUST Intra-University Programming Contest 2025
+- 🏆 **Runner-Up:** JUST Intra-University Programming Contest 2025
+- 🎓 **HSC GPA: 5.00/5.00** Blue Bird School and College
 
 ---
 
@@ -131,7 +132,7 @@ marwan = {
 ---
 
 <div align="center">
-  <i>"Solving 2100+ problems taught me that every hard problem becomes easy once you break it down."</i>
+  <i>"Solving 2200+ problems taught me that every hard problem becomes easy once you break it down."</i>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=80&section=footer&fontSize=14" />
 </div>
