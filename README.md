@@ -62,9 +62,11 @@ marwan = {
 <div align="center">
 
 **Languages**<br>
+<div align = "center">
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=cpp,python,cs,sql&theme=dark" alt="Languages"/>
 </a>
+</div>
 <br><br>
 
 **ML / Data Science**<br>
