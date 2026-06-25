@@ -122,7 +122,7 @@ marwan = {
 - ✅ **CSE Fundamentals:** Phitron (9 months) **99.69% Grade**
 - ✅ **Data Science & Machine Learning:** Phitron (6 months) **90.63% Grade**
 - 🏆 **Champion:** JUST Intra-University Programming Contest 2025
-- 🏆 **Runner-Up:** JUST Intra-University Programming Contest 2025
+- 🏆 **Runner-Up:** JUST Farewell Programming Contest 2026
 - 🎓 **HSC GPA: 5.00/5.00** Blue Bird School and College
 
 ---
