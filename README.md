@@ -23,7 +23,7 @@ marwan = {
     "location"   : "Bangladesh",
     "focus"      : ["Software Engineering", "Machine Learning", "Competitive Programming"],
     "cp_stats"   : {
-        "total_problems" : "2600+",
+        "total_problems" : "3000+",
         "codeforces_max" : 1497,
         "leetcode_max"   : 1739,
         "codechef_max"   : 1678,
@@ -95,16 +95,17 @@ Full-stack hotel management system with real-time analytics, booking lifecycle m
 
 <div align="center">
 
-![Total Problems](https://img.shields.io/badge/Total_Problems_Solved-2600+-00d9ff?style=for-the-badge)
+![Total Problems](https://img.shields.io/badge/Total_Problems_Solved-3000+-00d9ff?style=for-the-badge)
 
 | Platform | Max Rating | Problems Solved | Profile |
 |----------|-----------|-----------------|---------|
-| ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | **1497** | 775+ | [TheHackerBd](https://codeforces.com/profile/TheHackerBd) |
+| ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | **1497** | 950+ | [TheHackerBd](https://codeforces.com/profile/TheHackerBd) |
 | ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | **1442** | 800+ | [Marwanthe0](https://codeforces.com/profile/Marwanthe0) |
-| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | **1739** (Top 11.52%) | 170+ | [Marwanthe0](https://leetcode.com/u/marwanthe0) |
-| ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | **1678** | 340+ | [Marwanthe0](https://www.codechef.com/users/marwanthe0) |
-| ![VJudge](https://img.shields.io/badge/VJudge-007EC6?style=flat-square) | - | 350+ | [Marwanthe0](https://vjudge.net/user/Marwanthe0) |
-| ![CSES](https://img.shields.io/badge/CSES-1A5276?style=flat-square) | - | 85 | [Marwanthe0](https://cses.fi/user/278406) |
+| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | **1739** (Top 11.52%) | 200+ | [Marwanthe0](https://leetcode.com/u/marwanthe0) |
+| ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | **1678** | 350+ | [Marwanthe0](https://www.codechef.com/users/marwanthe0) |
+| ![VJudge](https://img.shields.io/badge/VJudge-007EC6?style=flat-square) | - | 580+ | [Marwanthe0](https://vjudge.net/user/Marwanthe0) |
+| ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white) | - | 220+ | [Marwanthe0](https://www.geeksforgeeks.org/profile/marwanthe0) |
+| ![CSES](https://img.shields.io/badge/CSES-1A5276?style=flat-square) | - | 100+ | [Marwanthe0](https://cses.fi/user/278406) |
 
 <br/>
 
@@ -159,7 +160,7 @@ Full-stack hotel management system with real-time analytics, booking lifecycle m
 ---
 
 <div align="center">
-  <i>"Solving 2600+ problems taught me that every hard problem becomes easy once you break it down."</i>
+  <i>"Solving 3000+ problems taught me that every hard problem becomes easy once you break it down."</i>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=80&section=footer&fontSize=14" alt="footer" />
 </div>
