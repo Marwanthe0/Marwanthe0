@@ -19,7 +19,7 @@ marwan = {
     "name"       : "Shafikul Islam Marwan",
     "role"       : "CSE Student | Software Engineer",
     "university" : "Jashore University of Science and Technology",
-    "cgpa"       : "3.65 / 4.00",
+    "cgpa"       : "3.67 / 4.00",
     "location"   : "Bangladesh",
     "focus"      : ["Software Engineering", "Machine Learning", "Competitive Programming"],
     "cp_stats"   : {
