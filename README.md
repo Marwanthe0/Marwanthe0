@@ -129,15 +129,13 @@ Full-stack hotel management system with real-time analytics, booking lifecycle m
 <img height="180em" src="https://github-readme-stats-puce-two-92.vercel.app/api/top-langs/?username=Marwanthe0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
 
 </div>
-
 <div align="center">
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Marwanthe0&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Marwanthe0&theme=tokyonight&hide_border=true&timezone=Asia/Dhaka" alt="GitHub Streak"/>
 </a>
 
 </div>
-
 ---
 
 ## Certifications & Achievements
